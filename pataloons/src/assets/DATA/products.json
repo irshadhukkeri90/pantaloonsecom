@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Men's Accesories 101",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+    "price": 450.0,
+    "image": "assets/images/mens_acce2.jpg",
+    "ratings": 4
+  },
+  {
+    "id": 2,
+    "title": "Men's Accesories 201",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+    "price": 488.0,
+    "image": "assets/images/mens_acce3.jpg",
+    "ratings": 5
+  },
+  {
+    "id": 3,
+    "title": "Men's Accesories 301",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever sincen",
+    "price": 28.88,
+    "image": "assets/images/mens_acce1.jpg",
+    "ratings": 3
+  },
+  {
+    "id": 4,
+    "title": "Men's Cloth 101",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+    "price": 53.0,
+    "image": "assets/images/mens_cloth1.jpg",
+    "ratings": 5
+  },
+  {
+    "id": 5,
+    "title": "Men's Cloth 201",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+    "price": 54.36,
+    "image": "assets/images/mens_cloth2.jpg",
+    "ratings": 2
+  },
+  {
+    "id": 6,
+    "title": "Men's Cloths 301",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+    "price": 53.0,
+    "image": "assets/images/mens_cloth4.jpg",
+    "ratings": 5
+  },
+  {
+    "id": 7,
+    "title": "Women's Accesories 101",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+    "price": 53.0,
+    "image": "assets/images/women_acce1.jpg",
+    "ratings": 5
+  },
+  {
+    "id": 8,
+    "title": "Women's Accesories 201",
+    "desc": "Lavazza Super Crema Whole Bean Coffee Blend, Medium Espresso Roast, 2.2 Pound (Pack of 1)",
+    "price": 54.36,
+    "image": "assets/images/women_acce2.jpg",
+    "ratings": 2
+  },
+  {
+    "id": 9,
+    "title": "Women's Accesories 301",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+    "price": 53.0,
+    "image": "assets/images/women_acce3.jpg",
+    "ratings": 5
+  },
+  {
+    "id": 10,
+    "title": "Women's Cloth 101",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+    "price": 53.0,
+    "image": "assets/images/women_cloth3.jpg",
+    "ratings": 5
+  },
+  {
+    "id": 11,
+    "title": "Women's Cloth 201",
+    "desc": "Lavazza Super Crema Whole Bean Coffee Blend, Medium Espresso Roast, 2.2 Pound (Pack of 1)",
+    "price": 54.36,
+    "image": "assets/images/women_cloth2.jpg",
+    "ratings": 2
+  },
+  {
+    "id": 12,
+    "title": "Women's Cloth 201",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since",
+    "price": 53.0,
+    "image": "assets/images/women_cloth3.jpg",
+    "ratings": 5
+  }
+]
